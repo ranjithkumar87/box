@@ -1,0 +1,36 @@
+
+.section {
+	text-align:center;
+	border:1px ;
+	width:34%;
+	height:173px;
+	margin-left:33%;
+	margin-top:50px;
+	box-shadow: 0px 0px 5px #00000038;
+	
+	border-radius:15px;
+	 background-color:#eef1ef;
+}
+
+.icon i{
+	color:#ff9806;
+	border:1px solid #e6e6e6;
+	border-radius:53%;
+	
+    padding:16px;
+	background-color:#eef1ef;
+		box-shadow: 0px 0px 5px #00000038;
+}
+
+
+.heading h2{
+	color:gray;
+
+	font-family: 'Abel', sans-serif;
+}
+.para p{
+	color:gray;
+	font-family: 'Wire One', sans-serif;
+	font-size:20px;
+}
+
